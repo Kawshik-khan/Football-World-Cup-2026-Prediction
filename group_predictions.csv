@@ -1,0 +1,73 @@
+match_id,group,home_team,away_team,exp_home_goals,exp_away_goals,pred_home_score,pred_away_score,prob_home_win,prob_draw,prob_away_win,pred_winner,pred_corners,pred_yellow_cards,prob_red_card,pred_red_cards
+1,A,Mexico,South Africa,2.083,0.546,2,0,0.7344,0.1807,0.0849,Mexico,10,4,0.2532,0
+2,A,South Korea,Denmark,1.081,1.469,1,1,0.2785,0.2609,0.4606,Denmark,12,4,0.312,0
+3,B,Canada,Italy,0.839,1.32,0,1,0.2376,0.2834,0.479,Italy,11,4,0.3223,0
+4,D,United States,Paraguay,1.643,0.817,1,0,0.57,0.2449,0.1852,United States,11,4,0.3201,0
+5,D,Australia,Turkey,1.15,1.374,1,1,0.3137,0.2665,0.4198,Turkey,12,4,0.3274,0
+6,B,Qatar,Switzerland,0.651,2.302,0,2,0.0884,0.165,0.7465,Switzerland,10,3,0.2479,0
+7,C,Brazil,Morocco,1.331,0.905,1,0,0.4656,0.28,0.2544,Brazil,12,4,0.308,0
+8,C,Haiti,Scotland,0.949,1.479,0,1,0.2422,0.2629,0.4949,Scotland,11,4,0.286,0
+9,E,Germany,Curacao,3.695,0.546,3,0,0.913,0.0618,0.0237,Germany,11,4,0.2382,0
+10,F,Netherlands,Japan,1.252,1.095,1,1,0.3988,0.2792,0.322,Netherlands,12,5,0.3214,0
+11,E,Ivory Coast,Ecuador,1.134,1.284,1,1,0.3266,0.2744,0.399,Ecuador,10,4,0.3051,0
+12,F,Ukraine,Tunisia,1.428,0.891,1,0,0.4957,0.2694,0.2348,Ukraine,10,4,0.2915,0
+13,H,Spain,Cape Verde,2.365,0.566,2,0,0.7764,0.1525,0.0711,Spain,10,4,0.2367,0
+14,G,Belgium,Egypt,1.561,0.864,1,0,0.5374,0.2546,0.208,Belgium,12,4,0.3064,0
+15,H,Saudi Arabia,Uruguay,0.876,1.739,0,1,0.1871,0.235,0.5779,Uruguay,11,4,0.2827,0
+16,G,Iran,New Zealand,2.032,0.676,2,0,0.6919,0.1949,0.1132,Iran,11,4,0.2902,0
+17,J,Austria,Jordan,1.761,0.832,1,0,0.5942,0.2317,0.1741,Austria,11,4,0.2955,0
+18,I,France,Senegal,1.645,0.848,1,0,0.5625,0.245,0.1925,France,11,5,0.2851,0
+19,I,Bolivia,Norway,0.806,1.842,0,1,0.1588,0.222,0.6192,Norway,10,4,0.2735,0
+20,J,Argentina,Algeria,1.778,0.628,1,0,0.6515,0.2227,0.1258,Argentina,11,4,0.2594,0
+21,K,Portugal,DR Congo,1.805,0.806,1,0,0.6109,0.2261,0.163,Portugal,11,4,0.2763,0
+22,L,England,Croatia,1.621,0.861,1,0,0.5533,0.2478,0.1989,England,12,4,0.2981,0
+23,L,Ghana,Panama,1.229,1.334,1,1,0.3424,0.2657,0.3919,Panama,10,4,0.3069,0
+24,K,Uzbekistan,Colombia,0.961,1.82,0,1,0.1964,0.2281,0.5756,Colombia,10,4,0.275,0
+25,A,Denmark,South Africa,1.71,0.871,1,0,0.5723,0.2381,0.1896,Denmark,11,4,0.2673,0
+26,B,Switzerland,Italy,0.96,1.475,0,1,0.2458,0.2631,0.4911,Italy,12,4,0.3271,0
+27,B,Canada,Qatar,1.987,0.576,1,0,0.7087,0.194,0.0973,Canada,10,3,0.2585,0
+28,A,Mexico,South Korea,1.774,0.659,1,0,0.6423,0.2246,0.1331,Mexico,12,4,0.2979,0
+29,D,Turkey,Paraguay,1.29,1.049,1,1,0.4198,0.2783,0.3019,Turkey,11,4,0.3295,0
+30,D,United States,Australia,1.569,0.908,1,0,0.5283,0.2537,0.218,United States,12,5,0.317,0
+31,C,Scotland,Morocco,0.865,1.522,0,1,0.2138,0.2591,0.5272,Morocco,11,4,0.312,0
+32,C,Brazil,Haiti,2.231,0.641,2,0,0.737,0.1715,0.0915,Brazil,11,4,0.246,0
+33,F,Tunisia,Japan,0.759,1.755,0,1,0.1579,0.2305,0.6116,Japan,11,4,0.2649,0
+34,F,Netherlands,Ukraine,1.68,0.861,1,0,0.5677,0.2412,0.1911,Netherlands,11,4,0.2948,0
+35,E,Germany,Ivory Coast,1.939,0.746,1,0,0.6554,0.2089,0.1357,Germany,12,4,0.2886,0
+36,E,Ecuador,Curacao,2.29,0.724,2,0,0.7273,0.1711,0.1015,Ecuador,10,4,0.2546,0
+37,H,Spain,Saudi Arabia,2.213,0.549,2,0,0.7562,0.1666,0.0772,Spain,11,3,0.2308,0
+38,G,Belgium,Iran,1.41,1.0,1,0,0.4642,0.2687,0.2671,Belgium,12,4,0.3111,0
+39,H,Uruguay,Cape Verde,1.631,0.817,1,0,0.567,0.2463,0.1867,Uruguay,10,4,0.2886,0
+40,G,New Zealand,Egypt,0.842,1.72,0,1,0.1814,0.2365,0.5821,Egypt,11,4,0.295,0
+41,J,Argentina,Austria,1.71,0.76,1,0,0.6009,0.2358,0.1633,Argentina,11,3,0.2745,0
+42,I,France,Bolivia,2.336,0.559,2,0,0.7736,0.1548,0.0716,France,10,4,0.2451,0
+43,I,Norway,Senegal,1.259,1.129,1,1,0.3932,0.2767,0.3301,Norway,11,5,0.3135,0
+44,J,Jordan,Algeria,0.848,1.56,0,1,0.204,0.2547,0.5413,Algeria,11,4,0.3106,0
+45,K,Portugal,Uzbekistan,1.884,0.778,1,0,0.6356,0.2163,0.1481,Portugal,11,4,0.2807,0
+46,L,England,Ghana,2.388,0.64,2,0,0.7629,0.156,0.0811,England,11,3,0.2387,0
+47,L,Panama,Croatia,0.807,1.804,0,1,0.1633,0.2262,0.6105,Croatia,11,4,0.2937,0
+48,K,Colombia,DR Congo,1.641,0.832,1,0,0.5656,0.2453,0.1891,Colombia,10,4,0.2706,0
+49,B,Switzerland,Canada,1.521,0.975,1,0,0.4995,0.2581,0.2424,Switzerland,11,4,0.3102,0
+50,B,Italy,Qatar,2.342,0.488,2,0,0.7911,0.1484,0.0605,Italy,10,3,0.2508,0
+51,C,Scotland,Brazil,0.613,2.074,0,2,0.0978,0.1864,0.7158,Brazil,12,4,0.29,0
+52,C,Morocco,Haiti,2.036,0.678,2,0,0.6922,0.1946,0.1132,Morocco,11,4,0.268,0
+53,A,Denmark,Mexico,1.089,1.547,1,1,0.2674,0.2538,0.4788,Mexico,12,5,0.3251,0
+54,A,South Africa,South Korea,0.896,1.497,0,1,0.2256,0.2616,0.5128,South Korea,11,4,0.2853,0
+55,E,Curacao,Ivory Coast,0.841,2.03,0,2,0.1462,0.2033,0.6504,Ivory Coast,11,4,0.2796,0
+56,E,Ecuador,Germany,0.798,1.695,0,1,0.1741,0.2385,0.5874,Germany,12,4,0.3135,0
+57,F,Japan,Ukraine,1.486,0.881,1,0,0.5137,0.263,0.2233,Japan,11,5,0.3034,0
+58,F,Tunisia,Netherlands,0.772,2.0,0,1,0.1352,0.2034,0.6614,Netherlands,11,3,0.2563,0
+59,D,United States,Turkey,1.503,0.94,1,0,0.5034,0.2605,0.2361,United States,11,4,0.3196,0
+60,D,Paraguay,Australia,1.096,1.305,1,1,0.3121,0.2747,0.4133,Australia,11,4,0.3269,0
+61,I,Norway,France,0.873,1.659,0,1,0.1968,0.2437,0.5596,France,11,4,0.3016,0
+62,I,Senegal,Bolivia,1.742,0.755,1,0,0.6097,0.2319,0.1584,Senegal,10,4,0.29,0
+63,H,Cape Verde,Saudi Arabia,1.159,1.159,1,1,0.3588,0.2824,0.3588,Cape Verde,10,4,0.3241,0
+64,H,Uruguay,Spain,0.79,1.817,0,1,0.158,0.2243,0.6177,Spain,12,4,0.2781,0
+65,G,Egypt,Iran,1.056,1.18,1,1,0.3251,0.2878,0.3871,Iran,12,4,0.3252,0
+66,G,New Zealand,Belgium,0.662,2.481,0,2,0.0789,0.149,0.7721,Belgium,11,4,0.2713,0
+67,L,Panama,England,0.576,2.366,0,2,0.0725,0.1532,0.7742,England,10,4,0.2618,0
+68,L,Croatia,Ghana,1.983,0.883,1,0,0.6304,0.2097,0.1599,Croatia,11,4,0.2706,0
+69,K,Colombia,Portugal,1.131,1.401,1,1,0.3037,0.2651,0.4312,Portugal,11,5,0.3243,0
+70,K,DR Congo,Uzbekistan,1.348,1.063,1,1,0.4326,0.2724,0.2951,DR Congo,11,4,0.3256,0
+71,J,Algeria,Austria,1.063,1.423,1,1,0.2817,0.2656,0.4527,Austria,11,4,0.315,0
+72,J,Jordan,Argentina,0.47,2.785,0,2,0.0404,0.1082,0.8513,Argentina,10,3,0.24,0

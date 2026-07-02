@@ -1,0 +1,33 @@
+match_id,round,most_likely_home,most_likely_away,matchup_probability,predicted_winner,winner_probability,pred_corners,pred_yellow_cards,prob_red_card
+73,Round of 32,Denmark,Switzerland,0.124,Italy,0.21,12,5,0.3271
+74,Round of 32,Brazil,Japan,0.192,Brazil,0.379,12,4,0.3188
+75,Round of 32,Germany,South Korea,0.097,Germany,0.551,12,4,0.2965
+76,Round of 32,Netherlands,Morocco,0.191,Netherlands,0.253,12,5,0.3106
+77,Round of 32,Ecuador,France,0.127,France,0.213,11,4,0.2897
+78,Round of 32,France,Scotland,0.073,France,0.437,11,4,0.2721
+79,Round of 32,Mexico,Norway,0.061,Mexico,0.493,12,4,0.3269
+80,Round of 32,England,DR Congo,0.158,England,0.537,11,4,0.2602
+81,Round of 32,Belgium,Saudi Arabia,0.063,Belgium,0.331,11,4,0.2794
+82,Round of 32,United States,Canada,0.1,United States,0.328,11,4,0.3129
+83,Round of 32,Colombia,Croatia,0.163,Croatia,0.246,11,5,0.3085
+84,Round of 32,Spain,Austria,0.289,Spain,0.475,12,3,0.2763
+85,Round of 32,Italy,Iran,0.088,Italy,0.336,12,4,0.3111
+86,Round of 32,United States,Iran,0.098,United States,0.17,11,4,0.3109
+87,Round of 32,Argentina,Uruguay,0.341,Argentina,0.564,10,4,0.2763
+88,Round of 32,Portugal,Panama,0.093,Portugal,0.342,10,4,0.2779
+89,Round of 16,Italy,Germany,0.12,Germany,0.371,13,4,0.3144
+90,Round of 16,Brazil,France,0.086,Brazil,0.241,12,5,0.312
+91,Round of 16,Netherlands,France,0.117,France,0.314,13,5,0.3095
+92,Round of 16,Mexico,England,0.259,England,0.346,12,5,0.31
+93,Round of 16,Croatia,Spain,0.119,Spain,0.373,12,4,0.2836
+94,Round of 16,Belgium,United States,0.099,Belgium,0.207,11,4,0.321
+95,Round of 16,Australia,Portugal,0.065,Portugal,0.225,11,4,0.2992
+96,Round of 16,Italy,Argentina,0.2,Argentina,0.459,13,4,0.2796
+97,Quarter-final,Germany,Brazil,0.087,Germany,0.281,13,4,0.3241
+98,Quarter-final,Spain,Belgium,0.083,Spain,0.29,12,4,0.2814
+99,Quarter-final,France,Mexico,0.102,England,0.216,12,4,0.2955
+100,Quarter-final,Portugal,Argentina,0.108,Argentina,0.384,12,5,0.2976
+101,Semi-final,Germany,Spain,0.079,Spain,0.215,13,5,0.297
+102,Semi-final,England,Argentina,0.091,Argentina,0.272,13,4,0.3137
+103,Third-place playoff,Germany,France,0.018,Argentina,0.108,13,5,0.3062
+104,Final,Spain,Argentina,0.079,Argentina,0.228,12,4,0.3282
